@@ -34,4 +34,6 @@ class StaffRegister {
     }
     private StaffRegister() {}
     public static StaffRegister getInstance() { return instance; }
+
+    // Data access methods...
 }
