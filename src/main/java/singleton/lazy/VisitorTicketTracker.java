@@ -1,4 +1,4 @@
-package src.main.java.lazy;
+package main.java.singleton.lazy;
 
 // Lazy instantiation
 public class VisitorTicketTracker {
